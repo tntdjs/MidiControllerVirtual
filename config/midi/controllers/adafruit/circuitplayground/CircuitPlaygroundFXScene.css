@@ -1,0 +1,325 @@
+#neopixel-power {	
+	-fx-background-color: green;
+	}
+#neopixel-red {	
+	-fx-background-color: red;
+}
+
+#ct-button-0:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-0 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+#ct-button-1:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-1 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+#ct-button-2:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-2 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+
+#ct-button-3:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-3 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+/* This is 1 of 2 special buttons -4 and -19 are the left-right buttons */
+#ct-button-4:pressed {
+	-fx-background-color: grey;
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-4 {
+    -fx-background-color: black;
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+/* This is 1 of 2 special buttons -4 and -19 are the left-right buttons */
+
+#ct-button-6:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-6 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+#ct-button-9:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-9 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+#ct-button-10:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-10 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+#ct-button-12:pressed {
+	-fx-background-color: linear-gradient(#ff5400, black);
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-12 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+/* This is 1 of 2 special buttons -4 and -19 are the left-right buttons */
+#ct-button-19:pressed {
+	-fx-background-color: grey;
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#ct-button-19 {
+    -fx-background-color: black;
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+/* This is 1 of 2 special buttons -4 and -19 are the left-right buttons */
+
+#neopixel-0 {
+    -fx-background-color: linear-gradient(red, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-1 {
+    -fx-background-color: linear-gradient(orange, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-2 {
+    -fx-background-color: linear-gradient(yellow, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-3 {
+    -fx-background-color: linear-gradient(green, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-4 {
+    -fx-background-color: linear-gradient(teal, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-5 {
+    -fx-background-color: linear-gradient(blue, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-6 {
+    -fx-background-color: linear-gradient(blue, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-7 {
+    -fx-background-color: linear-gradient(blue, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-8 {
+    -fx-background-color: linear-gradient(purple, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+#neopixel-9 {
+    -fx-background-color: linear-gradient(purple, #be1d00);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 5em;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  25px;
+	-fx-min-height: 25px;
+    -fx-max-width:  25px; 
+    -fx-max-height: 25px;
+}
+
+
+#slide-switch-21 {}

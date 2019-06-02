@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.ToggleButton?>
+<?import com.tntdjs.midi.controllers.djtt.midifighter.MFButton?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" 
+	prefHeight="400.0" prefWidth="600.0" 
+	style="-fx-background-color: white;" 
+	xmlns="http://javafx.com/javafx/8.0.161" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="com.tntdjs.midi.controllers.adafruit.circuitplayground.CircuitPlaygroundFXController">
+	
+   <children>
+      <ImageView fitHeight="392.0" fitWidth="502.0" layoutX="92.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../res/images/adafruit/circuitplayground/circuitplaygroundclassic.png" />
+         </image>
+      </ImageView>
+      <MFButton id="ct-button-2" fx:id="ctButton2" focusTraversable="false" layoutX="108.0" layoutY="126.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton2Action" />
+      <MFButton id="ct-button-3" fx:id="ctButton3" focusTraversable="false" layoutX="139.0" layoutY="72.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton3Action" />
+      <MFButton id="ct-button-4" fx:id="ctButton4" focusTraversable="false" layoutX="198.0" layoutY="182.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" onAction="#handleCTButton4Action" />
+      <MFButton id="ct-button-19" fx:id="ctButton19" focusTraversable="false" layoutX="355.0" layoutY="182.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" onAction="#handleCTButton19Action" />
+      <MFButton id="neopixel-0" fx:id="neopixel0" focusTraversable="false" layoutX="208.0" layoutY="72.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-1" fx:id="neopixel1" focusTraversable="false" layoutX="163.0" layoutY="121.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-2" fx:id="neopixel2" focusTraversable="false" layoutX="143.0" layoutY="187.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-3" fx:id="neopixel3" focusTraversable="false" layoutX="162.0" layoutY="255.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-4" fx:id="neopixel4" focusTraversable="false" layoutX="214.0" layoutY="304.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-9" fx:id="neopixel9" focusTraversable="false" layoutX="343.0" layoutY="72.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-8" fx:id="neopixel8" focusTraversable="false" layoutX="392.0" layoutY="123.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-7" fx:id="neopixel7" focusTraversable="false" layoutX="407.0" layoutY="188.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-6" fx:id="neopixel6" focusTraversable="false" layoutX="393.0" layoutY="249.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-5" fx:id="neopixel5" focusTraversable="false" layoutX="343.0" layoutY="302.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="15.0" />
+      <MFButton id="neopixel-power" fx:id="neopixelPower" focusTraversable="false" layoutX="235.0" layoutY="24.0" minHeight="14.0" minWidth="9.0" mnemonicParsing="false" prefHeight="14.0" prefWidth="9.0" />
+      <MFButton id="neopixel-red" fx:id="neopixelRed" focusTraversable="false" layoutX="332.0" layoutY="22.0" minHeight="14.0" minWidth="9.0" mnemonicParsing="false" prefHeight="14.0" prefWidth="9.0" />
+      <MFButton id="ct-button-0" fx:id="ctButton0" focusTraversable="false" layoutX="109.0" layoutY="250.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton0Action" />
+      <MFButton id="ct-button-1" fx:id="ctButton1" focusTraversable="false" layoutX="141.0" layoutY="304.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton1Action" />
+      <MFButton id="ct-button-12" fx:id="ctButton12" focusTraversable="false" layoutX="413.0" layoutY="302.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton12Action" />
+      <MFButton id="ct-button-6" fx:id="ctButton6" focusTraversable="false" layoutX="444.0" layoutY="248.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton6Action" />
+      <MFButton id="ct-button-9" fx:id="ctButton9" focusTraversable="false" layoutX="444.0" layoutY="126.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton9Action" />
+      <MFButton id="ct-button-10" fx:id="ctButton10" focusTraversable="false" layoutX="413.0" layoutY="72.0" minHeight="25.0" minWidth="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" onAction="#handleCTButton10Action" />
+      <ToggleButton id="slide-switch-21" fx:id="slideSwitch21" layoutX="264.0" layoutY="251.0" mnemonicParsing="false" prefHeight="14.0" prefWidth="49.0" onAction="#handleSlideSwitch21Action" />
+   </children> 
+   <stylesheets>
+	<URL value="@CircuitPlaygroundFXScene.css" />
+   </stylesheets>
+</Pane>
+

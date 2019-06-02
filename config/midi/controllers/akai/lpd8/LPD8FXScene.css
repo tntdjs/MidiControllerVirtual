@@ -1,0 +1,207 @@
+.root {
+     -fx-background: rgb(0,0,0);
+}
+
+#lpd8-bg-imagepane {
+	-fx-background-image: url("../../../../../res/images/akai/lpd8/akai-lpd8.png");
+}
+
+#label1 {
+     -fx-background: rgb(255,0,0);
+     -fx-text-fill: green;
+     -fx-font-size: 22pt;
+}
+
+#button-pad1:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#button-pad1 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad2:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad2 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad3:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad3 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad4:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad4 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad5:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad5 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad6:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad6 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad7:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad7 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#button-pad8:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#button-pad8 {
+    -fx-background-color: 
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: white;    
+    -fx-font-size:  14px;
+    -fx-min-width:  50px;
+	-fx-min-height: 50px;
+    -fx-max-width:  100px; 
+    -fx-max-height: 100px;
+}
+
+#comboBox_pad1 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad2 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad3 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad4 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad5 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad6 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad7 {
+	-fx-font-size:  14px;	
+}
+#comboBox_pad8 {
+	-fx-font-size:  14px;	
+}
